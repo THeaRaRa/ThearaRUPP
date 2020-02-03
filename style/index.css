@@ -1,0 +1,24 @@
+.navbar-nav {
+    margin-left: 65%;
+    font-size: 20px;
+    font: bold;
+}
+
+.background {   
+    width: 100%;
+    height: 632px;
+    background-size: cover;
+    background-position: center;
+
+}
+
+.title {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.title h1 {
+    color: white;
+    font-size: 55px;
+}

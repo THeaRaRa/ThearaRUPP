@@ -1,0 +1,62 @@
+
+.logo {
+    display: block;
+    margin: auto;
+    width: 35%;
+}
+
+.marq-run {
+    font-family: Courgette;
+    font-size: 16px;
+    color: white;
+    background-color: black;
+    margin: auto;
+    position: sticky;
+    top: 0px;
+}
+
+.moviepic {
+    width: 95%;
+}
+
+.movietitle {
+    color: aliceblue;
+    font-family: Bahnschrift, Footlight MT Light;
+    font-size: 95%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    cursor: s-resize;
+}
+
+.section {
+    background-color: brown;
+    overflow: hidden;
+    margin: 0 auto;
+}
+
+.gallery {
+    width: 1290px;
+    margin: 20px 0px 0px 20px;
+    list-style: none;
+}
+
+.gallery li {
+    float: left;
+    width: 19%;
+    height: 395px;
+    margin: 5px;
+}
+
+.gallery img {
+    padding: 5px;
+    background-color: white;
+}
+
+.gallery img:hover {
+    background-color: red;
+}
+.navbar-nav {
+    margin-left: 65%;
+    font-size: 20px;
+    font: bold;
+}
